@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.a2bab03a0f0e22c8029b84734275ff88.js"
+  "/vue-demo/precache-manifest.3b98a259f5c276ff71fc8a5c3ccb2c85.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "informatiker"});
